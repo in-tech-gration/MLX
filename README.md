@@ -2,6 +2,8 @@
 
   A free, open-source Machine Learning & Data Science curriculum that's currently under heavy development.
 
+  ![](./assets/header.png)
+
 ## Prerequisites
 
   - Basic knowledge and familiarity with computers
