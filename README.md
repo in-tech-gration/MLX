@@ -1,6 +1,6 @@
 # Machine Learning X
 
-  A free, open-source Machine Learning & Data Science curriculum that's currently under heavy development.
+  A free, open-source Machine Learning & Data Science curriculum that's currently under heavy development. This is a project by [intechgration](https://intechgration.io).
 
   ![](./assets/header.png)
 
@@ -126,7 +126,7 @@
 
   **Podcasts:**
 
-  - [Linear Digressions](https://lineardigressions.com/){:target="_blank"}
+  - [Linear Digressions](https://lineardigressions.com/)
 
 ## Contributors
 
