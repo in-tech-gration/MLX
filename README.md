@@ -2,6 +2,8 @@
 
   A free, open-source Machine Learning curriculum that's currently under heavy development.
 
+  ![](./assets/header.png)
+
 ## Resources
 
   Here are some resources that are going to be reviewed and integrated into the curriculum:
