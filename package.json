@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:jekyll": "bundle exec jekyll _3.9.3_ build --incremental --config _offline.yml",
+    "serve:jekyll": "bundle exec jekyll _3.9.3_ serve --incremental --config _offline.yml"
   },
   "keywords": [],
-  "author": "",
+  "author": "in-tech-gration",
   "license": "ISC"
 }
