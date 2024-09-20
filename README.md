@@ -2,8 +2,6 @@
 
   A free, open-source Machine Learning & Data Science curriculum that's currently under heavy development.
 
-  ![](./assets/header.png)
-
 ## Prerequisites
 
   - Basic knowledge and familiarity with computers
@@ -132,3 +130,4 @@
 
   - [Bilal Mahdy](https://www.linkedin.com/in/bilal-emad-eldin/)
   - [Kostas Minaidis](https://www.linkedin.com/in/kostas-minaidis/)
+  - [Lalenia-Katerina Zourni](https://github.com/Lalenia)

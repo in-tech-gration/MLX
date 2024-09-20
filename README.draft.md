@@ -130,3 +130,4 @@
 
   - [Bilal Mahdy](https://www.linkedin.com/in/bilal-emad-eldin/)
   - [Kostas Minaidis](https://www.linkedin.com/in/kostas-minaidis/)
+  - [Lalenia-Katerina Zourni](https://github.com/Lalenia)
