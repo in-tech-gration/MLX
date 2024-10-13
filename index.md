@@ -66,7 +66,7 @@
 
 ## Prerequisites | Terminal
 
-  - Watch [Command Line Crash Course For Beginners | Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw){:target="_blank"} (45min) and practice each command on your terminal.
+  - Watch [Command Line Crash Course For Beginners \| Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw){:target="_blank"} (45min) and practice each command on your terminal.
 
   **Resources:**
 
