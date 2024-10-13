@@ -24,11 +24,11 @@
 
 ## Prerequisites | How Computers Work
 
-  - Watch [**How Computers Work**](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"} (Total duration: 27min)
+  - Watch [**How Computers Work**](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"} (⏱️ Total duration: 27min)
 
 ## Prerequisites | How the Internet Works
 
-  - Watch [**How The Internet Works**](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7){:target="_blank"} (Total duration: 48min)
+  - Watch [**How The Internet Works**](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7){:target="_blank"} (⏱️ Total duration: 48min)
 
 ## Prerequisites | Data Formats
 
@@ -41,7 +41,7 @@
 
   **CSV (Comma-Separated Values)** is a simple file format used for storing and exchanging structured data, where each line represents a record or entry, and fields or columns within each record are separated by commas.
 
-  - [Understanding CSV Files](https://www.youtube.com/watch?v=UofTplCVkYI){:target="_blank"} (6min)
+  - [Understanding CSV Files](https://www.youtube.com/watch?v=UofTplCVkYI){:target="_blank"} (⏱️ 6min)
 
     - You can find the `sample.csv` file mentioned in the video [here](https://raw.githubusercontent.com/in-tech-gration/MLX/refs/heads/main/assets/sample.csv){:target="_blank"}.
 
@@ -53,8 +53,8 @@
   - Does not need any special software (it's just a plain text file)
   - All spreadsheet apps (MS Excel, Google Sheets, Numbers, etc.) can read and write CSV
 
-  - Watch [**The Big 3 Programming Data Formats (JSON, CSV, XML)**](https://www.youtube.com/watch?v=LkriaLlkByM){:target="_blank"} (8min)
-  - Watch [**The Basics of YAML in Under 5 Minutes**](https://www.youtube.com/watch?v=0fbnyS_lHW4){:target="_blank"} (4min)
+  - Watch [**The Big 3 Programming Data Formats (JSON, CSV, XML)**](https://www.youtube.com/watch?v=LkriaLlkByM){:target="_blank"} (⏱️ 8min)
+  - Watch [**The Basics of YAML in Under 5 Minutes**](https://www.youtube.com/watch?v=0fbnyS_lHW4){:target="_blank"} (⏱️ 4min)
 
   - Read the sections about the CSV and XLSX formats in [this article](https://docs.parse.ly/whats-difference-html-csv-xcl/){:target="_blank"} and search for more resources on the Web about them.
 
@@ -66,7 +66,7 @@
 
 ## Prerequisites | Terminal
 
-  - Watch [Command Line Crash Course For Beginners \| Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw){:target="_blank"} (45min) and practice each command on your terminal.
+  - Watch [Command Line Crash Course For Beginners \| Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw){:target="_blank"} (⏱️ 45min) and practice each command on your terminal.
 
   **Resources:**
 
@@ -75,16 +75,16 @@
 
 ## Prerequisites | Databases
 
-  - Watch and practice with [Exploratory Data Analysis in Spreadsheets](https://www.youtube.com/watch?v=Wui0u7HzHu0){:target="_blank"} (70min)
+  - Watch and practice with [Exploratory Data Analysis in Spreadsheets](https://www.youtube.com/watch?v=Wui0u7HzHu0){:target="_blank"} (⏱️ 70min)
     - You can find the CSV dataset [on this link](https://raw.githubusercontent.com/in-tech-gration/MLX/refs/heads/main/assets/Fortune.500.Companies.csv){:target="_blank"}
 
   > SQL is the most widely used language in Data Science.
 
-  - Watch and practice with [Spreadsheets & SQL for Beginners](https://www.youtube.com/watch?v=N9Q3pOoVYIM){:target="_blank"} (21min)
+  - Watch and practice with [Spreadsheets & SQL for Beginners](https://www.youtube.com/watch?v=N9Q3pOoVYIM){:target="_blank"} (⏱️ 21min)
 
   - Take the [Database Murder Mystery Challenge](https://in-tech-gration.github.io/database-mysteries/){:target="_blank"}
 
-  - Watch the Harvard [CS50 Introduction to Databases with SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0){:target="_blank"} course (11h):
+  - Watch the Harvard [CS50 Introduction to Databases with SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0){:target="_blank"} course (⏱️ 11h):
     - [Introduction](https://www.youtube.com/watch?v=wdzA1Z8tKek){:target="_blank"} 
     - [Lecture 0 - Querying (SQLite)](https://www.youtube.com/watch?v=vHYeChEf2lA){:target="_blank"} 
       - [Notes](https://cs50.harvard.edu/sql/2024/notes/0/){:target="_blank"}
@@ -111,16 +111,16 @@
 
   **Extra Resources:**
 
-  - Complete the [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6){:target="_blank"} course by Microsoft (4h 36min)
-  - Complete the [More Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj){:target="_blank"} course by Microsoft (2h 23min)
-  - Complete the [Even More Python for Beginners: Data Tools](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-){:target="_blank"} course by Microsoft (2h 32min)
+  - Complete the [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6){:target="_blank"} course by Microsoft (⏱️ 4h 36min)
+  - Complete the [More Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj){:target="_blank"} course by Microsoft (⏱️ 2h 23min)
+  - Complete the [Even More Python for Beginners: Data Tools](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-){:target="_blank"} course by Microsoft (⏱️ 2h 32min)
 
 ## Prerequisites | Statistics
 
   Pick one of the following courses for a primary on Statistics (or watch both of them for an even better understanding of the topic):
 
-  - [Statistics (CrashCourse)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr){:target="_blank"} (8h 45min)(45 videos)
-  - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28){:target="_blank"} (8h 15min)
+  - [Statistics (CrashCourse)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr){:target="_blank"} (⏱️ 8h 45min)(45 videos)
+  - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28){:target="_blank"} (⏱️ 8h 15min)
 
 ---
 
