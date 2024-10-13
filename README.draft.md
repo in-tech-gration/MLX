@@ -11,7 +11,7 @@
   - Ability to work and collaborate with others as you will be working with a team
   - A good level of english language
   - Access to the Internet
-  - Hardware requirements: minimum 8GB of RAM, an SSD Hard Drive and a pretty decent CPU 
+  - Hardware requirements: minimum 16GB of RAM, an SSD Hard Drive and a pretty decent CPU 
   - Familiarity with Git, GitHub and Version Control (students can attend our Git Lessons)
 
 ## Description
